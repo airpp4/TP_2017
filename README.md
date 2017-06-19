@@ -1,20 +1,6 @@
-# TP_2017
+Projekt przedstawia dźwig z maksymalnym udźwigiem i nie podnosi przedmiotów cięższych od limitu. (zakres [0; 199])
+Jedyną częścią sterowalną układu jest sama lina, którą poruszają strzałki na klawiaturze. Naciśnięcie spacji przy przedmiocie podnosi go. Naciśnięcie X podczas trzymania przedmiotu kasuje go. 
 
-## Tworzymy własny projekt
-
-* Zaczynamy od zrobienia forka głównego projektu
-* Każdy projekt powinien zostać umieszczony w osobnym folderze nazwaFolderu_ID (ID zostanie przydzielone do kazdej grupy projektowej)
-* Po zakończeniu projektu robimy Pull Request do brancha develop
-
-## Co folder projektowy musi posiadać
-
-* Źródła programu (C, C++)
-* Dokumentację (README.md) - kilka zdań na temat samego projektu + opis jak zbudować kod
-
-## Uwaga 
-* Nie umieszczamy w repozyterium plikow binarnych! 
-
-## Linki
-
-* Kurs dotyczący GIT - https://www.atlassian.com/git/tutorials 
-
+1. Należy stworzyć klasy - dźwigu, przedmiotów.
+2. Należy stworzyć timer, narysować przedmioty i dźwig.
+3. Należy napisać warunki ograniczające ruch liny, przedmiotów oraz udźwig.
